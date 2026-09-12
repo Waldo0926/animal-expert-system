@@ -1,0 +1,3 @@
+# Optional desktop GUI dependency.
+# The inference engine and CLI use only the Python standard library.
+PyQt5>=5.15
