@@ -1,5 +1,10 @@
 # 动物识别专家系统
 
+[![类型](https://img.shields.io/badge/%E7%B1%BB%E5%9E%8B-%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%AF%BE%E7%A8%8B-2563eb?style=for-the-badge)](#)
+[![技术](https://img.shields.io/badge/%E6%8A%80%E6%9C%AF-Python_%C2%B7_PyQt5-7c3aed?style=for-the-badge)](#)
+[![许可证](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF%E8%AF%81-MIT-16a34a?style=for-the-badge)](LICENSE)
+
+
 [English](README.md)
 
 这是一个小型的**符号人工智能 / 专家系统**项目。系统根据用户提供的动物特征，通过产生式规则知识库和真正的**正向链式推理（Forward Chaining）**逐步推导并识别动物。
