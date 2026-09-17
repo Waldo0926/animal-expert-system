@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-16a34a?style=for-the-badge)](LICENSE)
 
 
-[简体中文](README.zh-CN.md)
+**English** · [中文](README.zh-CN.md)
 
 A small **symbolic AI / expert-system** project that identifies animals from observable features using a production-rule knowledge base and a genuine **forward-chaining inference engine**.
 
